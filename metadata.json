@@ -1,0 +1,7 @@
+{
+  "name": "Safety Hazard Detector",
+  "description": "An AI-powered application for safety officers to identify unsafe acts and conditions in real-time by analyzing a live video feed for potential hazards.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
